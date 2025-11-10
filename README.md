@@ -1,8 +1,6 @@
 # Rangkuman_Bab_10
 # Pertemuan 10 — Justifikasi Investasi TI dan Tata Kelola TI
 
-# Pertemuan 10 — Justifikasi Investasi TI dan Tata Kelola TI
-
 ## Tujuan Pembelajaran
 - Memahami konsep justifikasi investasi TI
 - Menjelaskan metode evaluasi kelayakan investasi TI
