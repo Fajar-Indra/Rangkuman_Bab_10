@@ -72,6 +72,12 @@
 - Tata kelola TI memastikan investasi dikelola efektif & aman
 - Keduanya saling terkait — governance + justification = kunci keberhasilan strategi TI
 
+- ## Referensi
+- ISACA (2019) — COBIT 2019 Framework
+- ISO/IEC 38500:2015 — Corporate Governance of IT
+- Weill & Ross (2004) — IT Governance
+- Laudon & Laudon (2022) — MIS
+
 
 
 
