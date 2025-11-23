@@ -1,4 +1,7 @@
-# Pertemuan 10 — Justifikasi Investasi TI dan Tata Kelola TI
+# Rangkuman BAB 10 Perencanaan Strategis Teknologi Informasi
+Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT.
+
+## Pertemuan 10 — Justifikasi Investasi TI dan Tata Kelola TI
 
 ## Tujuan Pembelajaran
 - Memahami konsep justifikasi investasi TI
